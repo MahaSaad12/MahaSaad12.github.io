@@ -28,4 +28,20 @@ Just a modern web browser. No installations required.
 4. Refresh the page to roll the dice!
 
 ## 📁 Folder Structure
+Dicee/
+├── images/
+│ ├── dice1.png
+│ ├── dice2.png
+│ ├── ...
+│ └── dice6.png
+├── index.html
+├── styles.css
+└── index.js
 
+## ✨ Credits
+
+Inspired by [The App Brewery](https://www.appbrewery.co/).
+
+---
+
+Enjoy rolling! 🎲
